@@ -1,1 +1,1 @@
-# education_document
+# Education Document
